@@ -37,10 +37,11 @@ import ij.plugin.filter.PlugInFilterRunner;
 import ij.plugin.frame.Recorder;
 import ij.process.FloatProcessor;
 import ij.process.ImageProcessor;
+
 import java.awt.Checkbox;
 import java.awt.TextField;
-import java.awt.event.KeyListener;
 import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
 import java.util.Vector;
 
 /*====================================================================
