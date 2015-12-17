@@ -45,6 +45,10 @@
 		<tag>HEAD</tag>
 		<url>https://github.com/fiji/SheppLogan</url>
 	</scm>
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/fiji/SheppLogan/issues</url>
+	</issueManagement>
 	<ciManagement>
 		<system>Jenkins</system>
 		<url>http://jenkins.imagej.net/job/SheppLogan/</url>
