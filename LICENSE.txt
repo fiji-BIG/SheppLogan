@@ -1,0 +1,4 @@
+You'll be free to use this software for research purposes, but you must not
+transmit and distribute it without our consent. EPFL makes no warranties of any
+kind on this software and shall in no event be liable for damages of any kind
+in connection with the use and exploitation of this technology.
